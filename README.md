@@ -12,4 +12,8 @@
 <p><b>Database: </b> MySQL.</p>
 <p><b>FrontEnd: </b> HTML, CSS, Bootstrap, Javascript.</p>
 
-
+<h2>Usage Instructions</h2>
+<p>1.Explore the mobile shopping catalog as a viewer.
+2.Register and log in as a user for a personalized shopping experience.
+3.Vendors can log in to manage products and orders through the Vendor module.
+4.Admins can utilize the Admin Portal for comprehensive control and oversight.</p>
